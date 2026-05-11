@@ -1,7 +1,3 @@
-# GVD Planning (IP — not committed to public repos)
-.dev/
-.kiro/
-
 # Node.js
 node_modules/
 dist/
@@ -29,3 +25,9 @@ data/
 # IDE
 .vscode/
 .idea/
+
+# NOTE: .dev/ and .kiro/ are intentionally committed in this TEMPLATE repo.
+# In your actual project, you may want to gitignore them (they contain IP).
+# Uncomment the lines below to protect your planning files:
+# .dev/
+# .kiro/
