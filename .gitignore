@@ -1,0 +1,31 @@
+# GVD Planning (IP — not committed to public repos)
+.dev/
+.kiro/
+
+# Node.js
+node_modules/
+dist/
+build/
+coverage/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data
+data/
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/

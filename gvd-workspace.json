@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "templates": [
+    ".kiro/steering/CONTEXT.md",
+    ".dev/planning/EXECUTION_PLAN.md"
+  ],
+  "static": [
+    ".kiro/steering/DEVELOPMENT.md",
+    ".dev/ROADMAP.md",
+    ".dev/planning/SPEC_INDEX.md",
+    ".dev/planning/specs/.gitkeep",
+    ".dev/research/RESEARCH_INDEX.md",
+    ".gitignore",
+    "README.md"
+  ]
+}
